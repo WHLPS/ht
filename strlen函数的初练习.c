@@ -1,5 +1,5 @@
 #include <string.h>
-
+#include <stdio.h>
 int main()
 {
 	char arr1[]="abcdefg" ;
